@@ -55,7 +55,7 @@ The purpose of this project is to build an advanced medical chatbot capable of a
 
 ## How to Run
 1. Clone the repository:  
-   `git clone https://github.com/yourusername/medical-chat-bot-llama2.git`
+   `git clone https://github.com/Harsha-S-Naik/End-To-End-Medical-ChatBot.git`
    
 2. Install the required libraries:  
    `pip install -r requirements.txt`
